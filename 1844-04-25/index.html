@@ -3,75 +3,44 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Cadiz Radio — April 25, 1844</title>
+<title>Cadiz Radio</title>
 <link rel="stylesheet" href="../station.css">
 </head>
-<body>
-<header>
-  <a class="wordmark" href="../">CADIZ <span>RADIO</span></a>
-  <div class="meta">Harrison County, Ohio · local transcript · not a feed</div>
+<body class="copy">
+<header class="top">
+  <a class="wordmark" href="../">CADIZ RADIO</a>
+  <a class="back" href="../">All papers</a>
 </header>
-<main>
-  <p class="meta"><a class="back" href="../">All issues</a></p>
-  <h1>The Cadiz Sentinel<br>April 25, 1844</h1>
-  <p class="lede">L. Harper, editor and printer. Sixty-one stories from the type, plus skippable shop cards. Cadiz is spoken KAY-diz. Nothing here was rewritten.</p>
-  <div class="player">
-    <div class="now-kind" id="now-kind">Intro</div>
-    <p class="now" id="now-title">The Cadiz Sentinel</p>
-    <audio id="audio" controls preload="metadata"></audio>
-    <div class="controls">
-      <button id="prev">Previous</button>
-      <button id="next">Next</button>
-      <button id="skip-ad">Skip this notice</button>
-      <button id="next-story">Next story</button>
+<div class="desk">
+  <aside class="radio-col">
+    <div class="set">
+      <img class="cabinet" src="../plate/player-face.png" alt="The Cadiz Sentinel">
+      <div class="deck">
+        <p class="now-kind" id="now-kind">Story</p>
+        <p class="now-title" id="now-title">The Cadiz Sentinel</p>
+        <canvas id="wave"></canvas>
+        <div class="knobs">
+          <button id="prev" type="button">Prev</button>
+          <button id="play" type="button">Play</button>
+          <button id="next" type="button">Next</button>
+        </div>
+      </div>
     </div>
-  </div>
-  <ol class="chapters" id="list"></ol>
-  <p class="note">Source: <a id="src" href="https://chroniclingamerica.loc.gov/lccn/sn84028793/1844-04-25/ed-1/">Chronicling America</a>.</p>
-</main>
-<script>
-const EPISODE = {"title": "The Cadiz Sentinel \u2014 April 25, 1844", "edition": "cadiz", "issue_date": "1844-04-25", "story_count": 61, "duration_seconds": 2562.1440000000002, "source_url": "https://chroniclingamerica.loc.gov/lccn/sn84028793/1844-04-25/ed-1/", "voice": "af_heart", "chapters": [{"idx": 0, "kind": "intro", "section": null, "headline": null, "duration": 11.448, "src": "audio/0.mp3"}, {"idx": 1, "kind": "story", "section": "Page 1, Column 1", "headline": "POETICAL", "duration": 11.232, "src": "audio/1.mp3"}, {"idx": 2, "kind": "story", "section": "Page 1, Column 1", "headline": "TO SPRING", "duration": 10.992, "src": "audio/2.mp3"}, {"idx": 3, "kind": "story", "section": "Page 1, Column 1", "headline": "Isle of Beauty, fare thee well!", "duration": 16.464, "src": "audio/3.mp3"}, {"idx": 4, "kind": "story", "section": "Page 1, Column 1", "headline": "A Night with Burns", "duration": 25.8, "src": "audio/4.mp3"}, {"idx": 5, "kind": "story", "section": "Page 1, Column 1", "headline": "Marriage in St. Petersburg", "duration": 20.52, "src": "audio/5.mp3"}, {"idx": 6, "kind": "story", "section": "Page 1, Column 2", "headline": "Page 1, Column 2", "duration": 8.832, "src": "audio/6.mp3"}, {"idx": 7, "kind": "story", "section": "Page 1, Column 2", "headline": "The last of the Stuarts", "duration": 29.64, "src": "audio/7.mp3"}, {"idx": 8, "kind": "story", "section": "Page 1, Column 2", "headline": "The art of being Agreeable", "duration": 9.744, "src": "audio/8.mp3"}, {"idx": 9, "kind": "story", "section": "Page 1, Column 2", "headline": "Beautiful little Allegory", "duration": 10.56, "src": "audio/9.mp3"}, {"idx": 10, "kind": "story", "section": "Page 1, Column 2", "headline": "Appearance", "duration": 11.496, "src": "audio/10.mp3"}, {"idx": 11, "kind": "story", "section": "Page 1, Column 2", "headline": "Frugality", "duration": 19.536, "src": "audio/11.mp3"}, {"idx": 12, "kind": "story", "section": "Page 1, Column 3", "headline": "GATHERINGS AND GOSSIPPINGS", "duration": 110.28, "src": "audio/12.mp3"}, {"idx": 13, "kind": "story", "section": "Page 1, Columns 4-6", "headline": "Page 1, Columns 4-6", "duration": 10.248, "src": "audio/13.mp3"}, {"idx": 14, "kind": "story", "section": "Page 1, Columns 4-6", "headline": "The Second Ogle Flayed Alive!", "duration": 22.992, "src": "audio/14.mp3"}, {"idx": 15, "kind": "story", "section": "Page 1, Columns 4-6", "headline": "Reply to Mr. Stewart, of Pennsylvania", "duration": 69.12, "src": "audio/15.mp3"}, {"idx": 16, "kind": "story", "section": "Page 2, Columns 1-3", "headline": "Page 2, Columns 1-3", "duration": 52.152, "src": "audio/16.mp3"}, {"idx": 17, "kind": "story", "section": "Page 2, Columns 1-3", "headline": "Effects of the Canadian Tariff on Wheat", "duration": 49.008, "src": "audio/17.mp3"}, {"idx": 18, "kind": "story", "section": "Page 2, Columns 1-3", "headline": "Clay Hostility to Foreigners", "duration": 15.384, "src": "audio/18.mp3"}, {"idx": 19, "kind": "story", "section": "Page 2, Column 4", "headline": "Page 2, Column 4", "duration": 16.488, "src": "audio/19.mp3"}, {"idx": 20, "kind": "story", "section": "Page 2, Column 4", "headline": "Anecdote of John Randolph", "duration": 11.544, "src": "audio/20.mp3"}, {"idx": 21, "kind": "story", "section": "Page 2, Column 4", "headline": "Prohibiting Foreign Importations", "duration": 30.048, "src": "audio/21.mp3"}, {"idx": 22, "kind": "story", "section": "Page 2, Column 4", "headline": "Mr. Bartley Short Biography", "duration": 15.792, "src": "audio/22.mp3"}, {"idx": 23, "kind": "story", "section": "Page 2, Column 4", "headline": "Political Definitions", "duration": 32.448, "src": "audio/23.mp3"}, {"idx": 24, "kind": "story", "section": "Page 2, Columns 5-6", "headline": "To the Editor of the Sentinel:", "duration": 27.912, "src": "audio/24.mp3"}, {"idx": 25, "kind": "story", "section": "Page 2, Columns 5-6", "headline": "It is not Superstition", "duration": 20.496, "src": "audio/25.mp3"}, {"idx": 26, "kind": "story", "section": "Page 2, Columns 5-6", "headline": "LIST OF LETTERS,", "duration": 186.96, "src": "audio/26.mp3"}, {"idx": 27, "kind": "story", "section": "Page 3, Column 1", "headline": "FOR PRESIDENT,", "duration": 10.608, "src": "audio/27.mp3"}, {"idx": 28, "kind": "story", "section": "Page 3, Column 1", "headline": "ELECTORAL TICKET", "duration": 91.776, "src": "audio/28.mp3"}, {"idx": 29, "kind": "story", "section": "Page 3, Column 1", "headline": "FOR GOVERNOR OF OHIO,", "duration": 4.8, "src": "audio/29.mp3"}, {"idx": 30, "kind": "story", "section": "Page 3, Column 1", "headline": "EDITED BY L. HARPER", "duration": 11.976, "src": "audio/30.mp3"}, {"idx": 31, "kind": "story", "section": "Page 3, Column 1", "headline": "DEMOCRATIC TICKET", "duration": 20.112, "src": "audio/31.mp3"}, {"idx": 32, "kind": "story", "section": "Page 3, Column 1", "headline": "Clay's Opinion of White Slavery", "duration": 42.624, "src": "audio/32.mp3"}, {"idx": 33, "kind": "story", "section": "Page 3, Column 2", "headline": "Page 3, Column 2", "duration": 12.936, "src": "audio/33.mp3"}, {"idx": 34, "kind": "story", "section": "Page 3, Column 2", "headline": "TEXAS", "duration": 43.176, "src": "audio/34.mp3"}, {"idx": 35, "kind": "story", "section": "Page 3, Column 3", "headline": "The election in New York -- Native Americanism and Whiggery one and the same", "duration": 26.424, "src": "audio/35.mp3"}, {"idx": 36, "kind": "story", "section": "Page 3, Column 3", "headline": "Leaving the Whig Party", "duration": 45.504, "src": "audio/36.mp3"}, {"idx": 37, "kind": "story", "section": "Page 3, Column 4", "headline": "The Janus faced Candidate!", "duration": 109.704, "src": "audio/37.mp3"}, {"idx": 38, "kind": "story", "section": "Page 3, Column 5", "headline": "VIRGINIA", "duration": 28.896, "src": "audio/38.mp3"}, {"idx": 39, "kind": "story", "section": "Page 3, Column 5", "headline": "Impeachment of Judge Elliot", "duration": 12.408, "src": "audio/39.mp3"}, {"idx": 40, "kind": "story", "section": "Page 3, Column 5", "headline": "The New Mirror", "duration": 40.728, "src": "audio/40.mp3"}, {"idx": 41, "kind": "story", "section": "Page 3, Column 5", "headline": "MARRIED", "duration": 9.12, "src": "audio/41.mp3"}, {"idx": 42, "kind": "story", "section": "Page 3, Column 5", "headline": "DIED", "duration": 32.4, "src": "audio/42.mp3"}, {"idx": 43, "kind": "story", "section": "Page 3, Column 5", "headline": "A. G. DIMMOCK,", "duration": 32.016, "src": "audio/43.mp3"}, {"idx": 44, "kind": "story", "section": "Page 3, Column 5", "headline": "NEW WHOLESALE DRY GOODS STORE,", "duration": 19.584, "src": "audio/44.mp3"}, {"idx": 45, "kind": "story", "section": "Page 3, Column 5", "headline": "BOOT AND SHOE STORE", "duration": 21.624, "src": "audio/45.mp3"}, {"idx": 46, "kind": "story", "section": "Page 3, Column 5", "headline": "Brown and Bleached muslins", "duration": 16.632, "src": "audio/46.mp3"}, {"idx": 47, "kind": "story", "section": "Page 3, Column 5", "headline": "NEW SPRING GOODS AT THE CHEAP STORE", "duration": 19.392, "src": "audio/47.mp3"}, {"idx": 48, "kind": "story", "section": "Page 3, Column 6", "headline": "PAPER FOR THE CAMPAIGN", "duration": 32.376, "src": "audio/48.mp3"}, {"idx": 49, "kind": "story", "section": "Page 3, Column 6", "headline": "3000!", "duration": 42.624, "src": "audio/49.mp3"}, {"idx": 50, "kind": "story", "section": "Page 3, Column 6", "headline": "A Great Excitement!", "duration": 29.112, "src": "audio/50.mp3"}, {"idx": 51, "kind": "story", "section": "Page 3, Column 6", "headline": "STRAY COW", "duration": 19.464, "src": "audio/51.mp3"}, {"idx": 52, "kind": "story", "section": "Page 3, Column 6", "headline": "FUND COMMISSIONERS OFFICE,", "duration": 54.24, "src": "audio/52.mp3"}, {"idx": 53, "kind": "story", "section": "Page 3, Column 6", "headline": "JOHN REA", "duration": 14.832, "src": "audio/53.mp3"}, {"idx": 54, "kind": "story", "section": "Page 3, Column 6", "headline": "SNYDER and MALLERNEE", "duration": 9.672, "src": "audio/54.mp3"}, {"idx": 55, "kind": "story", "section": "Page 3, Column 6", "headline": "WESTERN EXCHANGE HOTEL,", "duration": 8.568, "src": "audio/55.mp3"}, {"idx": 56, "kind": "sponsor", "section": null, "headline": "COLLECTION NOTICE", "duration": 31.344, "src": "audio/56.mp3"}, {"idx": 57, "kind": "story", "section": "Page 3, Column 6", "headline": "A. S. CANFIELD", "duration": 35.136, "src": "audio/57.mp3"}, {"idx": 58, "kind": "story", "section": "Page 4, Column 1", "headline": "Stewart, Milligan and Bennett", "duration": 23.616, "src": "audio/58.mp3"}, {"idx": 59, "kind": "story", "section": "Page 4, Column 1", "headline": "REMOVAL. CRABB and ROBERTS, TAILORS", "duration": 17.184, "src": "audio/59.mp3"}, {"idx": 60, "kind": "story", "section": "Page 4, Column 1", "headline": "SADDLE, HARNESS and TRUNK MANUFACTORY", "duration": 15.576, "src": "audio/60.mp3"}, {"idx": 61, "kind": "story", "section": "Page 4, Column 1", "headline": "TWELVE CENTS REWARD", "duration": 40.296, "src": "audio/61.mp3"}, {"idx": 62, "kind": "story", "section": "Page 4, Column 1", "headline": "WESTERN EXCHANGE,", "duration": 13.8, "src": "audio/62.mp3"}, {"idx": 63, "kind": "sponsor", "section": null, "headline": "Milliner and Mantua Making Business", "duration": 34.032, "src": "audio/63.mp3"}, {"idx": 64, "kind": "sponsor", "section": null, "headline": "DISSOLUTION", "duration": 13.776, "src": "audio/64.mp3"}, {"idx": 65, "kind": "sponsor", "section": null, "headline": "NEW ARRANGEMENT. Stone Cutting", "duration": 29.472, "src": "audio/65.mp3"}, {"idx": 66, "kind": "sponsor", "section": null, "headline": "NEW ESTABLISHMENT", "duration": 14.208, "src": "audio/66.mp3"}, {"idx": 67, "kind": "sponsor", "section": null, "headline": "JOHN W. BLAIR,", "duration": 11.928, "src": "audio/67.mp3"}, {"idx": 68, "kind": "sponsor", "section": null, "headline": "A. and M. MITCHELTREE,", "duration": 87.432, "src": "audio/68.mp3"}, {"idx": 69, "kind": "sponsor", "section": null, "headline": "NOTICE", "duration": 11.112, "src": "audio/69.mp3"}, {"idx": 70, "kind": "sponsor", "section": null, "headline": "NEW FRESH GOODS!", "duration": 21.168, "src": "audio/70.mp3"}, {"idx": 71, "kind": "sponsor", "section": null, "headline": "CASH! CASH!", "duration": 12.432, "src": "audio/71.mp3"}, {"idx": 72, "kind": "sponsor", "section": null, "headline": "SARSAPARILLA", "duration": 17.28, "src": "audio/72.mp3"}, {"idx": 73, "kind": "sponsor", "section": null, "headline": "FARM FOR SALE", "duration": 25.368, "src": "audio/73.mp3"}, {"idx": 74, "kind": "sponsor", "section": null, "headline": "S. W. BOSTWICK,", "duration": 12.96, "src": "audio/74.mp3"}, {"idx": 75, "kind": "sponsor", "section": null, "headline": "CUMMINS and HARPER,", "duration": 16.2, "src": "audio/75.mp3"}, {"idx": 76, "kind": "sponsor", "section": null, "headline": "STANTON and PEPPARD", "duration": 18.384, "src": "audio/76.mp3"}, {"idx": 77, "kind": "sponsor", "section": null, "headline": "L. P. MILLIGAN", "duration": 11.664, "src": "audio/77.mp3"}, {"idx": 78, "kind": "sponsor", "section": null, "headline": "T. L. JEWETT,", "duration": 9.216, "src": "audio/78.mp3"}, {"idx": 79, "kind": "sponsor", "section": null, "headline": "M. H. URQUHART,", "duration": 14.808, "src": "audio/79.mp3"}, {"idx": 80, "kind": "sponsor", "section": null, "headline": "A. W. MORRISON,", "duration": 18.312, "src": "audio/80.mp3"}, {"idx": 81, "kind": "sponsor", "section": null, "headline": "JEW DAVID HEBREW PLASTER", "duration": 21.096, "src": "audio/81.mp3"}, {"idx": 82, "kind": "sponsor", "section": null, "headline": "A GOOD BARGAIN", "duration": 19.728, "src": "audio/82.mp3"}, {"idx": 83, "kind": "sponsor", "section": null, "headline": "OH YES!", "duration": 22.224, "src": "audio/83.mp3"}, {"idx": 84, "kind": "sponsor", "section": null, "headline": "DR. DUNCANS EXPECTORANT REMEDY", "duration": 17.28, "src": "audio/84.mp3"}, {"idx": 85, "kind": "sponsor", "section": null, "headline": "DR. EASTMANS CONCENTRATED BALSAM OF WILD CHERRY", "duration": 9.816, "src": "audio/85.mp3"}, {"idx": 86, "kind": "sponsor", "section": null, "headline": "SIX CENTS REWARD", "duration": 21.912, "src": "audio/86.mp3"}, {"idx": 87, "kind": "sponsor", "section": null, "headline": "FRESH DRUGS AND MEDICINES", "duration": 11.496, "src": "audio/87.mp3"}, {"idx": 88, "kind": "sponsor", "section": null, "headline": "WASHINGTONIAN HOUSE", "duration": 15.84, "src": "audio/88.mp3"}, {"idx": 89, "kind": "sponsor", "section": null, "headline": "CHEAP GOODS For Cash or APPROVED PRODUCE", "duration": 11.808, "src": "audio/89.mp3"}, {"idx": 90, "kind": "sponsor", "section": null, "headline": "No Tin Panning Here", "duration": 14.136, "src": "audio/90.mp3"}, {"idx": 91, "kind": "sponsor", "section": null, "headline": "DAY LIGHT AND FAIR PLAY", "duration": 17.568, "src": "audio/91.mp3"}, {"idx": 92, "kind": "sponsor", "section": null, "headline": "Ploughs", "duration": 6.768, "src": "audio/92.mp3"}, {"idx": 93, "kind": "sponsor", "section": null, "headline": "BUT BE ADVISED", "duration": 14.208, "src": "audio/93.mp3"}, {"idx": 94, "kind": "sponsor", "section": null, "headline": "Miss SARAH RITCHEY", "duration": 19.272, "src": "audio/94.mp3"}, {"idx": 95, "kind": "sponsor", "section": null, "headline": "LAND FOR SALE", "duration": 18.816, "src": "audio/95.mp3"}, {"idx": 96, "kind": "sponsor", "section": null, "headline": "Female Seminary", "duration": 16.176, "src": "audio/96.mp3"}, {"idx": 97, "kind": "sponsor", "section": null, "headline": "DICKINSON and CO", "duration": 19.512, "src": "audio/97.mp3"}, {"idx": 98, "kind": "outro", "section": null, "headline": null, "duration": 7.32, "src": "audio/98.mp3"}]};
-const audio = document.getElementById("audio");
-const list = document.getElementById("list");
-const nowTitle = document.getElementById("now-title");
-const nowKind = document.getElementById("now-kind");
-function fmt(s) {
-  s = Math.round(s || 0);
-  return Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
-}
-let i = 0;
-function chapter() { return EPISODE.chapters[i]; }
-function paint() {
-  const c = chapter();
-  nowKind.textContent = c.kind === "sponsor" ? "Advertising columns" : (c.kind || "");
-  nowTitle.textContent = c.headline || (c.kind === "intro" ? EPISODE.title : c.kind);
-  audio.src = c.src;
-  [...list.children].forEach((li, n) => li.classList.toggle("active", n === i));
-}
-function playAt(n) {
-  i = Math.max(0, Math.min(EPISODE.chapters.length - 1, n));
-  paint();
-  audio.play().catch(() => {});
-}
-EPISODE.chapters.forEach((c, n) => {
-  const li = document.createElement("li");
-  li.innerHTML = `<span class="kind ${c.kind}">${c.kind}</span>
-    <span class="headline">${c.headline || c.kind}${c.section ? ` <span class="dur">· ${c.section}</span>` : ""}</span>
-    <span class="dur">${fmt(c.duration)}</span>`;
-  li.addEventListener("click", () => playAt(n));
-  list.appendChild(li);
-});
-audio.addEventListener("ended", () => { if (i < EPISODE.chapters.length - 1) playAt(i + 1); });
-document.getElementById("prev").onclick = () => playAt(i - 1);
-document.getElementById("next").onclick = () => playAt(i + 1);
-document.getElementById("skip-ad").onclick = () => {
-  if (chapter().kind === "sponsor" && i < EPISODE.chapters.length - 1) playAt(i + 1);
-};
-document.getElementById("next-story").onclick = () => {
-  const n = EPISODE.chapters.findIndex((c, idx) => idx > i && c.kind === "story");
-  if (n >= 0) playAt(n);
-};
-paint();
-</script>
+    <section class="transcript">
+      <h2>Read along</h2>
+      <p id="script">Press Play.</p>
+    </section>
+  </aside>
+  <article class="paper">
+    <img class="mast" src="../plate/masthead.jpg" alt="The Cadiz Sentinel">
+    <p class="dateline" id="dateline"></p>
+    <p class="ed" id="ed"></p>
+    <aside class="hist" id="hist"></aside>
+    <div id="pages"></div>
+    <p class="ed" style="margin-top:28px">Source: <a id="src" href="#">Chronicling America</a></p>
+  </article>
+</div>
+<audio id="audio" preload="metadata"></audio>
+<script src="../player.js"></script>
 </body>
 </html>

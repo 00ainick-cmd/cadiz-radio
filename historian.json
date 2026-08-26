@@ -1,0 +1,84 @@
+{
+  "1844-03-21": {
+    "editor": "J. M'Gonagle. His valedictory is in this paper.",
+    "print_day": "Thursday",
+    "on_the_ground": [
+      "Mahood & Grimes, old Hogg and Wood stand.",
+      "Miss Sarah Ritchey, milliner, Steubenville street, opposite John Beall's Drug Store.",
+      "Cadiz Hotel livery (Levi Mallernee).",
+      "John Selby farm, Cadiz township, joining George Day and John Hines, offered for sale."
+    ],
+    "why": "First issue in this 1844 run. Next Thursday L. Harper is in the chair.",
+    "prev": null,
+    "next": "1844-03-28",
+    "index": 1,
+    "of": 27
+  },
+  "1844-03-28": {
+    "editor": "L. Harper.",
+    "print_day": "Thursday",
+    "on_the_ground": [
+      "Western Exchange: A. P. Croskey, stand formerly Thos. D. Grimes.",
+      "Stanton and Peppard (E. M. Stanton, S. G. Peppard), opposite James McNutt's Hotel.",
+      "P. R. K. Brotherson, corner of Market and Steubenville, opposite the public buildings."
+    ],
+    "why": "Harper's first week as editor in this run. The hotel and the lawyers take their stands on the square.",
+    "prev": "1844-03-21",
+    "next": "1844-04-04",
+    "index": 2,
+    "of": 27
+  },
+  "1844-04-04": {
+    "editor": "L. Harper.",
+    "print_day": "Thursday",
+    "on_the_ground": [
+      "Samuel Timmons, saddle and harness, corner brick opposite Hogg's old stand.",
+      "Crabb and Roberts, tailors, opposite Kilgore and Co.",
+      "Cummins and Harper, office on Steubenville street, opposite the public buildings."
+    ],
+    "why": "More of the square fills in: the saddler, the tailors, the law office on Steubenville street.",
+    "prev": "1844-03-28",
+    "next": "1844-04-11",
+    "index": 3,
+    "of": 27
+  },
+  "1844-04-11": {
+    "editor": "L. Harper.",
+    "print_day": "Thursday",
+    "on_the_ground": [
+      "J. W. Beebe and Co., cheap store, opposite the treasurer's office.",
+      "Miss Jane Scott, milliner, New Athens, Maine street, house of Mrs. Grimes. Franklin College is in the paper this spring."
+    ],
+    "why": "The treasurer's corner gets a cheap store. New Athens is on the same map as Cadiz this week.",
+    "prev": "1844-04-04",
+    "next": "1844-04-18",
+    "index": 4,
+    "of": 27
+  },
+  "1844-04-18": {
+    "editor": "L. Harper.",
+    "print_day": "Thursday",
+    "on_the_ground": [
+      "Rea & Eaton (John Rea, David Eaton), boots and shoes, opposite the Jail Buildings, immediately under the Sentinel office.",
+      "A. S. Canfield, Variety Store, one door west of Thomas Hogg's old stand, room formerly George Craig."
+    ],
+    "why": "The press and the jail share a wall. The shoe shop sits immediately under the Sentinel.",
+    "prev": "1844-04-11",
+    "next": "1844-04-25",
+    "index": 5,
+    "of": 27
+  },
+  "1844-04-25": {
+    "editor": "L. Harper.",
+    "print_day": "Thursday",
+    "on_the_ground": [
+      "T. and W. Hamilton, boots and shoes, opposite the public buildings, old stand of Thomas Phillips.",
+      "I. Eckelson, tailor, opposite Hogg and Tipton's store, room formerly Miss Bowles's milliner shop."
+    ],
+    "why": "Two more doors on the square: Hamilton at Phillips\u2019s old stand, Eckelson in the old milliner room. May 2 is on the shelf as type only.",
+    "prev": "1844-04-18",
+    "next": null,
+    "index": 6,
+    "of": 27
+  }
+}

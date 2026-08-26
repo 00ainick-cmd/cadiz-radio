@@ -1,0 +1,1937 @@
+{
+  "title": "1844 in Cadiz",
+  "run": "21 March \u2013 18 September 1844",
+  "papers": 27,
+  "recorded": [
+    "1844-03-21",
+    "1844-03-28",
+    "1844-04-04",
+    "1844-04-11",
+    "1844-04-18",
+    "1844-04-25"
+  ],
+  "source": "Chronicling America, LCCN sn84028793. Names as printed. No invented people.",
+  "entities": [
+    {
+      "id": "ritchey",
+      "name": "Miss Sarah Ritchey",
+      "kind": "shop",
+      "place": "Steubenville street, front room, second story of Joseph R. Hunter's dwelling house, opposite John Beall's Drug Store",
+      "note": "Milliner and mantua making. Card dated Cadiz, March 8, 1844. The card falls out of later numbers; do not pretend she is still there in September.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 43,
+          "headline": "Miss SARAH RITCHEY",
+          "duration": 19.272,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 18,
+          "headline": "Miss SARAH RITCHEY",
+          "duration": 19.272,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 11,
+          "headline": "Miss SARAH RITCHEY",
+          "duration": 19.272,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 44,
+          "headline": "Miss SARAH RITCHEY",
+          "duration": 19.272,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 79,
+          "headline": "Miss SARAH RITCHEY",
+          "duration": 22.296,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 94,
+          "headline": "Miss SARAH RITCHEY",
+          "duration": 19.272,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "fair-play",
+      "name": "DAY LIGHT AND FAIR PLAY",
+      "kind": "stage",
+      "place": "Cadiz Hotel livery, formerly Levi Mallernee. J. S. / Wm. N. Maffit, agent",
+      "note": "Hack to St. Clairsville, Wednesdays and Saturdays. Standing card dated Cadiz, Nov. 16th, 1843. No railroad in this run.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 80,
+          "headline": "FAIR PLAY",
+          "duration": 22.08,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 75,
+          "headline": "DAY LIGHT AND FAIR PLAY",
+          "duration": 23.112,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 66,
+          "headline": "DAY LIGHT AND FAIR PLAY",
+          "duration": 23.112,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 73,
+          "headline": "DAY LIGHT AND FAIR PLAY",
+          "duration": 17.568,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 76,
+          "headline": "DAY LIGHT AND FAIR PLAY",
+          "duration": 17.568,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 91,
+          "headline": "DAY LIGHT AND FAIR PLAY",
+          "duration": 17.568,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "hogg-auction",
+      "name": "Thomas Hogg public auction",
+      "kind": "event",
+      "place": "Cadiz. He is leaving the country",
+      "note": "Wagon, stock, furniture, pasture lots. First Monday of April. Dissolution from J. P. Wood is in the same March 21 paper.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 39,
+          "headline": "PUBLIC AUCTION",
+          "duration": 37.224,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-21",
+          "idx": 42,
+          "headline": "DISSOLUTION",
+          "duration": 13.92,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 38,
+          "headline": "PUBLIC AUCTION",
+          "duration": 43.872,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 40,
+          "headline": "DISSOLUTION",
+          "duration": 19.488,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 30,
+          "headline": "DISSOLUTION",
+          "duration": 13.92,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 38,
+          "headline": "DISSOLUTION",
+          "duration": 13.776,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 49,
+          "headline": "DISSOLUTION",
+          "duration": 22.992,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 64,
+          "headline": "DISSOLUTION",
+          "duration": 13.776,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "selby",
+      "name": "John Selby farm",
+      "kind": "place",
+      "place": "Cadiz township, joining George Day and John Hines",
+      "note": "Land for sale in the March 21 paper. Not a shop on the square.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 40,
+          "headline": "LAND FOR SALE",
+          "duration": 31.032,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 19,
+          "headline": "LAND FOR SALE",
+          "duration": 18.816,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 12,
+          "headline": "LAND FOR SALE",
+          "duration": 18.816,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 45,
+          "headline": "LAND FOR SALE",
+          "duration": 18.816,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 80,
+          "headline": "LAND FOR SALE",
+          "duration": 21.84,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 95,
+          "headline": "LAND FOR SALE",
+          "duration": 18.816,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "voorhies",
+      "name": "Doct. L. Voorhies",
+      "kind": "shop",
+      "place": "With Dr. J. Pearce",
+      "note": "Card from 21 March. He marries Margaret Lafferty, all of this place, Wednesday morning 1 May (2 May paper, type only).",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 44,
+          "headline": "DOCT. L. VOORHIES",
+          "duration": 22.032,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "huebener",
+      "name": "Edward T. Huebener",
+      "kind": "shop",
+      "place": "Bedwell and Huebener stone-cutting shop",
+      "note": "Leaving in the spring. Card from 28 March.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 53,
+          "headline": "NEW ARRANGEMENT. Stone Cutting",
+          "duration": 18.96,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 49,
+          "headline": "NEW ARRANGEMENT. Stone Cutting",
+          "duration": 29.472,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 40,
+          "headline": "NEW ARRANGEMENT. Stone Cutting",
+          "duration": 29.472,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 49,
+          "headline": "NEW ARRANGEMENT. Stone Cutting",
+          "duration": 29.472,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 53,
+          "headline": "NEW ARRANGEMENT. Stone Cutting",
+          "duration": 29.472,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 65,
+          "headline": "NEW ARRANGEMENT. Stone Cutting",
+          "duration": 29.472,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "western-exchange",
+      "name": "Western Exchange",
+      "kind": "hotel",
+      "place": "Cadiz. Stand formerly Thos. D. Grimes. A. P. Croskey [later cards also A. F.]",
+      "note": "First card 28 March. Volunteers later told to meet at the Exchange Saturday 25 May. Do not mix with R. H. Legget's Western Exchange Hotel in Carrollton.",
+      "first": "1844-03-28",
+      "dates": [
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-28",
+          "idx": 31,
+          "headline": "WESTERN EXCHANGE",
+          "duration": 26.424,
+          "category": "The nation",
+          "kind": "story"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 37,
+          "headline": "WESTERN EXCHANGE,",
+          "duration": 13.8,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 36,
+          "headline": "WESTERN EXCHANGE,",
+          "duration": 16.536,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 42,
+          "headline": "WESTERN EXCHANGE,",
+          "duration": 13.8,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 47,
+          "headline": "WESTERN EXCHANGE,",
+          "duration": 13.8,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 62,
+          "headline": "WESTERN EXCHANGE,",
+          "duration": 13.8,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "legget",
+      "name": "Western Exchange Hotel, Carrollton",
+      "kind": "hotel",
+      "place": "Carrollton. Stage office. R. H. Legget",
+      "note": "Not Cadiz. Printed 18 April as a through-card.",
+      "first": "1844-04-18",
+      "dates": [
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-04-18",
+          "idx": 34,
+          "headline": "WESTERN EXCHANGE HOTEL,",
+          "duration": 8.568,
+          "category": "Verse and sketches",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 55,
+          "headline": "WESTERN EXCHANGE HOTEL,",
+          "duration": 8.568,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "stanton",
+      "name": "Stanton and Peppard",
+      "kind": "shop",
+      "place": "Opposite James McNutt's Hotel",
+      "note": "E. M. Stanton, S. G. Peppard. Card from 28 March.",
+      "first": "1844-03-28",
+      "dates": [
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-28",
+          "idx": 59,
+          "headline": "STANTON and PEPPARD",
+          "duration": 26.544,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 50,
+          "headline": "STANTON and PEPPARD",
+          "duration": 26.544,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 55,
+          "headline": "STANTON and PEPPARD",
+          "duration": 18.456,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 59,
+          "headline": "STANTON and PEPPARD",
+          "duration": 18.456,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 76,
+          "headline": "STANTON and PEPPARD",
+          "duration": 18.384,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "cummins-harper",
+      "name": "Cummins and Harper",
+      "kind": "shop",
+      "place": "Steubenville street, opposite the public buildings. For a time, inside the Sentinel office",
+      "note": "Lecky Harper. 'Our Law Office is at present in the office of the Sentinel,' 4 April.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 65,
+          "headline": "CUMMINS and HARPER,",
+          "duration": 19.224,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 61,
+          "headline": "CUMMINS and HARPER,",
+          "duration": 19.512,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 52,
+          "headline": "CUMMINS and HARPER,",
+          "duration": 19.512,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 57,
+          "headline": "CUMMINS and HARPER,",
+          "duration": 16.2,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 61,
+          "headline": "CUMMINS and HARPER,",
+          "duration": 16.2,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 75,
+          "headline": "CUMMINS and HARPER,",
+          "duration": 16.2,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "bostwick",
+      "name": "S. W. Bostwick",
+      "kind": "shop",
+      "place": "Cadiz attorney",
+      "note": "Standing card from 21 March.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 64,
+          "headline": "S. W. BOSTWICK,",
+          "duration": 13.104,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 60,
+          "headline": "S. W. BOSTWICK,",
+          "duration": 13.968,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 51,
+          "headline": "S. W. BOSTWICK,",
+          "duration": 12.96,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 56,
+          "headline": "S. W. BOSTWICK,",
+          "duration": 12.96,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 60,
+          "headline": "S. W. BOSTWICK,",
+          "duration": 12.96,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 74,
+          "headline": "S. W. BOSTWICK,",
+          "duration": 12.96,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "jewett",
+      "name": "T. L. Jewett",
+      "kind": "shop",
+      "place": "Cadiz attorney",
+      "note": "Standing card from 21 March.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 67,
+          "headline": "T. L. JEWETT,",
+          "duration": 14.808,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 63,
+          "headline": "T. L. JEWETT,",
+          "duration": 14.904,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 54,
+          "headline": "T. L. JEWETT,",
+          "duration": 14.904,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 59,
+          "headline": "T. L. JEWETT,",
+          "duration": 9.216,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 63,
+          "headline": "T. L. JEWETT,",
+          "duration": 9.216,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 78,
+          "headline": "T. L. JEWETT,",
+          "duration": 9.216,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "urquhart",
+      "name": "M. H. Urquhart",
+      "kind": "shop",
+      "place": "Cadiz attorney",
+      "note": "Standing card from 21 March.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 68,
+          "headline": "M. H. URQUHART,",
+          "duration": 14.784,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 64,
+          "headline": "M. H. URQUHART,",
+          "duration": 14.808,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 55,
+          "headline": "M. H. URQUHART,",
+          "duration": 14.808,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 60,
+          "headline": "M. H. URQUHART,",
+          "duration": 14.808,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 64,
+          "headline": "M. H. URQUHART,",
+          "duration": 14.808,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 79,
+          "headline": "M. H. URQUHART,",
+          "duration": 14.808,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "milligan",
+      "name": "L. P. Milligan",
+      "kind": "shop",
+      "place": "Cadiz. Crabb and Roberts later sit in his frame building on Market street, opposite Kilgore & Co.",
+      "note": "Standing attorney card from 21 March.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 66,
+          "headline": "L. P. MILLIGAN",
+          "duration": 15.48,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 62,
+          "headline": "L. P. MILLIGAN",
+          "duration": 15.528,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 53,
+          "headline": "L. P. MILLIGAN",
+          "duration": 15.528,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 58,
+          "headline": "L. P. MILLIGAN",
+          "duration": 11.664,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 62,
+          "headline": "L. P. MILLIGAN",
+          "duration": 11.664,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 77,
+          "headline": "L. P. MILLIGAN",
+          "duration": 11.664,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "sharp-tin",
+      "name": "William Sharp, tin shop",
+      "kind": "shop",
+      "place": "Cadiz. Standing Market Street tin / copper card",
+      "note": "4 April: twelve cents reward, but no charges, for John Milligan, indented apprentice, ran 2 April. The boy is not found again in this run.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 79,
+          "headline": "No Tin Panning Here",
+          "duration": 18.408,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 74,
+          "headline": "No Tin Panning Here",
+          "duration": 18.408,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 35,
+          "headline": "TWELVE CENTS REWARD",
+          "duration": 40.248,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 65,
+          "headline": "No Tin Panning Here",
+          "duration": 18.408,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 41,
+          "headline": "TWELVE CENTS REWARD",
+          "duration": 40.296,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 72,
+          "headline": "No Tin Panning Here",
+          "duration": 14.136,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 46,
+          "headline": "TWELVE CENTS REWARD",
+          "duration": 40.296,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 75,
+          "headline": "No Tin Panning Here",
+          "duration": 14.136,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 61,
+          "headline": "TWELVE CENTS REWARD",
+          "duration": 40.296,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 90,
+          "headline": "No Tin Panning Here",
+          "duration": 14.136,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "ploughs",
+      "name": "McNutt and Smith, ploughs",
+      "kind": "shop",
+      "place": "Cadiz. Address only from 21 March",
+      "note": "Standing plough card.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 81,
+          "headline": "Ploughs",
+          "duration": 10.992,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 76,
+          "headline": "Ploughs",
+          "duration": 10.992,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 67,
+          "headline": "Ploughs",
+          "duration": 10.992,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 74,
+          "headline": "Ploughs",
+          "duration": 6.768,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 77,
+          "headline": "Ploughs",
+          "duration": 6.768,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 92,
+          "headline": "Ploughs",
+          "duration": 6.768,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "beall",
+      "name": "John Beall, drugs",
+      "kind": "shop",
+      "place": "Steubenville street / public-buildings neighborhood. Ritchey is opposite",
+      "note": "Also P. M. on the April 1 and July 1 letter lists. Sands's sarsaparilla; Jew David's plaster agent.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 61,
+          "headline": "SARSAPARILLA",
+          "duration": 15.048,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-21",
+          "idx": 76,
+          "headline": "FRESH DRUGS AND MEDICINES",
+          "duration": 11.496,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 57,
+          "headline": "SARSAPARILLA",
+          "duration": 10.152,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 71,
+          "headline": "FRESH DRUGS AND MEDICINES",
+          "duration": 11.496,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 48,
+          "headline": "SARSAPARILLA",
+          "duration": 10.152,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 62,
+          "headline": "FRESH DRUGS AND MEDICINES",
+          "duration": 11.496,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 54,
+          "headline": "SARSAPARILLA",
+          "duration": 7.128,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 69,
+          "headline": "FRESH DRUGS AND MEDICINES",
+          "duration": 11.496,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 57,
+          "headline": "SARSAPARILLA",
+          "duration": 10.512,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 72,
+          "headline": "FRESH DRUGS AND MEDICINES",
+          "duration": 11.496,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 72,
+          "headline": "SARSAPARILLA",
+          "duration": 17.28,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 87,
+          "headline": "FRESH DRUGS AND MEDICINES",
+          "duration": 11.496,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "washingtonian",
+      "name": "Washingtonian House",
+      "kind": "hotel",
+      "place": "Uhrichsville. M. B. Haskins",
+      "note": "Temperance / cold-water house. Not on the Cadiz square.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 77,
+          "headline": "WASHINGTONIAN HOUSE",
+          "duration": 15.264,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 72,
+          "headline": "WASHINGTONIAN HOUSE",
+          "duration": 15.84,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 63,
+          "headline": "WASHINGTONIAN HOUSE",
+          "duration": 15.84,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 70,
+          "headline": "WASHINGTONIAN HOUSE",
+          "duration": 15.84,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 73,
+          "headline": "WASHINGTONIAN HOUSE",
+          "duration": 15.84,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 88,
+          "headline": "WASHINGTONIAN HOUSE",
+          "duration": 15.84,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    },
+    {
+      "id": "canfield",
+      "name": "A. S. Canfield, Variety Store",
+      "kind": "shop",
+      "place": "One door west of Thomas Hogg's old stand, room formerly George Craig",
+      "note": "Dry goods, queensware, glassware, hardware, groceries, iron, nails, glass and domestic goods. Cash or approved country produce. First card 18 April.",
+      "first": "1844-04-18",
+      "dates": [
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-04-18",
+          "idx": 29,
+          "headline": "A. S. CANFIELD",
+          "duration": 26.376,
+          "category": "Verse and sketches",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 57,
+          "headline": "A. S. CANFIELD",
+          "duration": 35.136,
+          "category": "Verse and sketches",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "rea-eaton",
+      "name": "Rea & Eaton",
+      "kind": "shop",
+      "place": "Opposite the Jail Buildings, immediately under the Sentinel office",
+      "note": "John Rea and David Eaton purchased the boot and shoe establishment of Mr. John Phillips. The paper is upstairs. The boots are downstairs. First card 18 April.",
+      "first": "1844-04-18",
+      "dates": [
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-04-18",
+          "idx": 30,
+          "headline": "JOHN REA",
+          "duration": 16.608,
+          "category": "Verse and sketches",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 45,
+          "headline": "BOOT AND SHOE STORE",
+          "duration": 21.624,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 53,
+          "headline": "JOHN REA",
+          "duration": 14.832,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "snyder",
+      "name": "Snyder & Mallernee",
+      "kind": "shop",
+      "place": "Old stand of Snyder & Moore",
+      "note": "Samuel Snyder, Emanuel Mallernee, tailoring. First card 18 April.",
+      "first": "1844-04-18",
+      "dates": [
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-04-18",
+          "idx": 31,
+          "headline": "SNYDER & MALLERNEE",
+          "duration": 11.568,
+          "category": "Verse and sketches",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 54,
+          "headline": "SNYDER and MALLERNEE",
+          "duration": 9.672,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "crabb",
+      "name": "Crabb and Roberts",
+      "kind": "shop",
+      "place": "Milligan frame, Market street, opposite Kilgore and Co.",
+      "note": "Tailors. First card 4 April.",
+      "first": "1844-04-04",
+      "dates": [
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-04-04",
+          "idx": 29,
+          "headline": "CRABB and ROBERTS, TAILORS",
+          "duration": 18.216,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 37,
+          "headline": "REMOVAL. CRABB and ROBERTS, TAILORS",
+          "duration": 17.16,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 44,
+          "headline": "REMOVAL. CRABB and ROBERTS, TAILORS",
+          "duration": 17.16,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 59,
+          "headline": "REMOVAL. CRABB and ROBERTS, TAILORS",
+          "duration": 17.184,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "timmons",
+      "name": "Samuel Timmons",
+      "kind": "shop",
+      "place": "Corner brick opposite Hogg's old stand",
+      "note": "Saddle, harness, trunk. First card 4 April.",
+      "first": "1844-04-04",
+      "dates": [
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-04-04",
+          "idx": 34,
+          "headline": "SADDLE, HARNESS and TRUNK MANUFACTORY",
+          "duration": 15.576,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 40,
+          "headline": "SADDLE, HARNESS and TRUNK MANUFACTORY",
+          "duration": 15.576,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 45,
+          "headline": "SADDLE, HARNESS and TRUNK MANUFACTORY",
+          "duration": 15.576,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 60,
+          "headline": "SADDLE, HARNESS and TRUNK MANUFACTORY",
+          "duration": 15.576,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "beebe",
+      "name": "J. W. Beebe and Co.",
+      "kind": "shop",
+      "place": "Cheap store opposite the treasurer's office",
+      "note": "First card 11 April. 6000 yds. brown and bleached muslins (fabric, not a surname). W. B. Beebe later Cadiz agent for Wistar's balsam.",
+      "first": "1844-04-11",
+      "dates": [
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-04-11",
+          "idx": 30,
+          "headline": "J. W. BEEBE & Co",
+          "duration": 19.704,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 37,
+          "headline": "J. W. BEEBE & Co",
+          "duration": 13.032,
+          "category": "Verse and sketches",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 41,
+          "headline": "J. W. BEEBE & Co",
+          "duration": 22.8,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 46,
+          "headline": "Brown and Bleached muslins",
+          "duration": 16.632,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 47,
+          "headline": "NEW SPRING GOODS AT THE CHEAP STORE",
+          "duration": 19.392,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "stewart-milligan",
+      "name": "Stewart, Milligan and Bennett",
+      "kind": "shop",
+      "place": "The Bennett stand",
+      "note": "James Stewart, William Milligan, R. J. Bennett. New at the Bennett stand 4 April. William Bennett sells his entire property and merchandize to them 18 April.",
+      "first": "1844-04-04",
+      "dates": [
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-04-04",
+          "idx": 32,
+          "headline": "Stewart, Milligan and Bennett",
+          "duration": 20.232,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 39,
+          "headline": "Stewart, Milligan and Bennett",
+          "duration": 20.232,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 43,
+          "headline": "Stewart, Milligan and Bennett",
+          "duration": 23.64,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 58,
+          "headline": "Stewart, Milligan and Bennett",
+          "duration": 23.616,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "valedictory",
+      "name": "J. M'Gonagle valedictory",
+      "kind": "event",
+      "place": "The Sentinel office",
+      "note": "21 March 1844. He sells to L. Harper. Next Thursday the masthead reads Edited by L. Harper.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 21,
+          "headline": "VALEDICTORY",
+          "duration": 54.288,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "harper-chair",
+      "name": "L. Harper in the chair",
+      "kind": "event",
+      "place": "The Sentinel office",
+      "note": "First number 28 March. From 22 May he prints every Wednesday. Campaign paper $1.50 in advance.",
+      "first": "1844-03-28",
+      "dates": [
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-28",
+          "idx": 24,
+          "headline": "EDITED BY L. HARPER",
+          "duration": 48.264,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 16,
+          "headline": "EDITED BY L. HARPER",
+          "duration": 39.408,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 15,
+          "headline": "EDITED BY L. HARPER",
+          "duration": 11.784,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 17,
+          "headline": "EDITED BY L. HARPER",
+          "duration": 11.856,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 30,
+          "headline": "EDITED BY L. HARPER",
+          "duration": 11.976,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "trading-wives",
+      "name": "Trading Wives",
+      "kind": "event",
+      "place": "A few miles of this place",
+      "note": "Local item in the 21 March paper. Not a shop card.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 9,
+          "headline": "TRADING WIVES",
+          "duration": 44.928,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "texas",
+      "name": "Texas as it arrived",
+      "kind": "nation",
+      "place": "Set in type at Cadiz when the exchanges sent it",
+      "note": "April numbers fill with Texas. 25 April: Madisonian, treaty of annexation signed; the office does not expect action this session. The walk already spends Turner & Divine in September. Do not spend that joke here.",
+      "first": "1844-04-18",
+      "dates": [
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-04-18",
+          "idx": 21,
+          "headline": "TEXAS",
+          "duration": 21.096,
+          "category": "The nation",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 34,
+          "headline": "TEXAS",
+          "duration": 43.176,
+          "category": "Ohio",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "married-died",
+      "name": "Married / Died",
+      "kind": "event",
+      "place": "Local vitals as printed that week",
+      "note": "Names as the office set them. No surname hunt.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 37,
+          "headline": "MARRIED",
+          "duration": 22.248,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-03-21",
+          "idx": 38,
+          "headline": "DIED",
+          "duration": 33.12,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 29,
+          "headline": "MARRIED",
+          "duration": 29.88,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 26,
+          "headline": "MARRIED",
+          "duration": 81.312,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 41,
+          "headline": "MARRIED",
+          "duration": 9.12,
+          "category": "The town",
+          "kind": "story"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 42,
+          "headline": "DIED",
+          "duration": 32.4,
+          "category": "The town",
+          "kind": "story"
+        }
+      ]
+    },
+    {
+      "id": "dickinson",
+      "name": "Dickinson and Co.",
+      "kind": "nation",
+      "place": "Forwarding, Cumberland, Md.",
+      "note": "A through-card, not a Cadiz depot.",
+      "first": "1844-03-21",
+      "dates": [
+        "1844-03-21",
+        "1844-03-28",
+        "1844-04-04",
+        "1844-04-11",
+        "1844-04-18",
+        "1844-04-25"
+      ],
+      "clips": [
+        {
+          "date": "1844-03-21",
+          "idx": 85,
+          "headline": "DICKINSON and CO",
+          "duration": 10.344,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-03-28",
+          "idx": 80,
+          "headline": "DICKINSON and CO",
+          "duration": 13.128,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-04",
+          "idx": 71,
+          "headline": "DICKINSON and CO",
+          "duration": 13.56,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-11",
+          "idx": 78,
+          "headline": "DICKINSON and CO",
+          "duration": 13.56,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-18",
+          "idx": 82,
+          "headline": "DICKINSON and CO",
+          "duration": 19.512,
+          "category": "The shops",
+          "kind": "sponsor"
+        },
+        {
+          "date": "1844-04-25",
+          "idx": 97,
+          "headline": "DICKINSON and CO",
+          "duration": 19.512,
+          "category": "The shops",
+          "kind": "sponsor"
+        }
+      ]
+    }
+  ],
+  "threads": [
+    {
+      "id": "press",
+      "title": "The chair changes",
+      "body": "Thursday, 21 March 1844, J. M'Gonagle prints his valedictory and sells the Sentinel to L. Harper. The next Thursday the masthead reads Edited by L. Harper. From 22 May he prints every Wednesday. That is the press talking about itself. The paper upstairs does not move. The boots downstairs arrive later.",
+      "stops": [
+        {
+          "date": "1844-03-21",
+          "entity": "valedictory",
+          "label": "Valedictory",
+          "idx": 21,
+          "href": "1844-03-21/#c21"
+        },
+        {
+          "date": "1844-03-28",
+          "entity": "harper-chair",
+          "label": "Harper's first number",
+          "idx": 24,
+          "href": "1844-03-28/#c24"
+        }
+      ]
+    },
+    {
+      "id": "square",
+      "title": "The square fills in",
+      "body": "Each Thursday a new door takes a stand. Hogg is leaving the country. Ritchey is upstairs on Steubenville street, opposite Beall's drugs. Croskey takes the Exchange, formerly Grimes. Stanton and Peppard sit opposite McNutt's. Rea and Eaton buy Phillips's shoe shop, immediately under the Sentinel, opposite the jail. The paper is upstairs. The boots are downstairs.",
+      "stops": [
+        {
+          "date": "1844-03-21",
+          "entity": "ritchey",
+          "label": "Ritchey, Steubenville street",
+          "idx": 43,
+          "href": "1844-03-21/#c43"
+        },
+        {
+          "date": "1844-03-21",
+          "entity": "hogg-auction",
+          "label": "Hogg leaving",
+          "idx": 39,
+          "href": "1844-03-21/#c39"
+        },
+        {
+          "date": "1844-03-28",
+          "entity": "western-exchange",
+          "label": "Croskey at the Exchange",
+          "idx": 31,
+          "href": "1844-03-28/#c31"
+        },
+        {
+          "date": "1844-03-28",
+          "entity": "stanton",
+          "label": "Stanton and Peppard",
+          "idx": 59,
+          "href": "1844-03-28/#c59"
+        },
+        {
+          "date": "1844-04-04",
+          "entity": "crabb",
+          "label": "Crabb and Roberts",
+          "idx": 29,
+          "href": "1844-04-04/#c29"
+        },
+        {
+          "date": "1844-04-04",
+          "entity": "timmons",
+          "label": "Timmons, saddle",
+          "idx": 34,
+          "href": "1844-04-04/#c34"
+        },
+        {
+          "date": "1844-04-11",
+          "entity": "beebe",
+          "label": "Beebe, opposite the treasurer",
+          "idx": 30,
+          "href": "1844-04-11/#c30"
+        },
+        {
+          "date": "1844-04-18",
+          "entity": "rea-eaton",
+          "label": "Rea & Eaton under the press",
+          "idx": 30,
+          "href": "1844-04-18/#c30"
+        },
+        {
+          "date": "1844-04-18",
+          "entity": "canfield",
+          "label": "Canfield, one door west of Hogg",
+          "idx": 29,
+          "href": "1844-04-18/#c29"
+        }
+      ]
+    },
+    {
+      "id": "stage",
+      "title": "The only timetable",
+      "body": "No railroad is printed in this run. The town's timetable is a standing card: DAY LIGHT AND FAIR PLAY. J. S. and Wm. N. Maffit bought the livery formerly Levi Mallernee. The hack to St. Clairsville leaves Wednesdays and Saturdays. Wednesday becomes print day from 22 May. The hack also leaves on Wednesday.",
+      "stops": [
+        {
+          "date": "1844-03-21",
+          "entity": "fair-play",
+          "label": "Fair Play / Cadiz Hotel livery",
+          "idx": 80,
+          "href": "1844-03-21/#c80"
+        },
+        {
+          "date": "1844-03-28",
+          "entity": "fair-play",
+          "label": "Same card, Harper's first week",
+          "idx": 75,
+          "href": "1844-03-28/#c75"
+        }
+      ]
+    },
+    {
+      "id": "texas",
+      "title": "Texas as it arrived",
+      "body": "The office sets Texas when the exchanges send it. It is not a Cadiz argument until the office makes it one. April 11 the heading is TEXAS. April 25 the Madisonian: the treaty of annexation is signed; the office does not expect action this session. By June the paper comes over to Polk and Dallas. That later type is on the shelf, not recorded yet.",
+      "stops": [
+        {
+          "date": "1844-04-11",
+          "entity": "texas",
+          "label": "TEXAS",
+          "href": "1844-04-11/"
+        },
+        {
+          "date": "1844-04-25",
+          "entity": "texas",
+          "label": "Treaty signed, no action this session",
+          "idx": 34,
+          "href": "1844-04-25/#c34"
+        }
+      ]
+    }
+  ],
+  "later": [
+    {
+      "date": "1844-05-02",
+      "label": "Voorhies marries Margaret Lafferty. Democratic meeting at McNutt's."
+    },
+    {
+      "date": "1844-05-08",
+      "label": "Spring Term. Ohio vs. Eady \u2014 that case is Ady. Murray of Deersville murdered."
+    },
+    {
+      "date": "1844-05-22",
+      "label": "Four weeklies in one town. Gould stabbing of McConnell. Texas treaty printed. Editor absent."
+    },
+    {
+      "date": "1844-05-29",
+      "label": "Hickory Club, Saturday next, early candle-lighting, house of Jas. McNutt."
+    },
+    {
+      "date": "1844-06-05",
+      "label": "Paper comes over to Polk and Dallas. Ads crowded out."
+    },
+    {
+      "date": "1844-07-10",
+      "label": "Fourth of July in Sharp's oak grove. Hickory pole vs poplar stick."
+    },
+    {
+      "date": "1844-08-14",
+      "label": "THE LIST in the shop windows. Planned destruction of the Sentinel office. Gimblet hill."
+    },
+    {
+      "date": "1844-09-11",
+      "label": "ATTEMPT TO ASSASSINATE THE EDITOR. ANNEXATION. hung over a local marriage."
+    },
+    {
+      "date": "1844-09-18",
+      "label": "Freeport report. Hero of the skillet. A GLANCE AT TEXAS leads the paper."
+    }
+  ]
+}
