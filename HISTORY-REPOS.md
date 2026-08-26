@@ -12,14 +12,16 @@ This is the map. Do not start a fifth app.
 
 Live files on disk (not a substitute for Lineage): OneDrive `Ancestry` and Genesis `50-Genealogy`. Specs Nick reviews stay in Genesis. Research claims get filed in Lineage.
 
-## Earlier attempts. Do not start work here.
+## Earlier attempts. Archived.
+
+Do not start work here. Archive hides them. It does not delete.
 
 | Repo | What it actually is | Last push |
 |---|---|---|
-| [lineage-genealogy](https://github.com/00ainick-cmd/lineage-genealogy) (private) | Vault dump plus an older React/Express Genesis-Web. 183 people, 307 source files, Cadiz-Sentinel folder. A snapshot, not the live app. | 2026-06-26 |
-| [ancestry-vault](https://github.com/00ainick-cmd/ancestry-vault) (private) | Git snapshot of the Ancestry folder (Families, Places, Sources, a nested Lineage). | 2026-03-19 |
-| [genesis-web](https://github.com/00ainick-cmd/genesis-web) (private) | Earlier Vite genealogy platform (tree, narratives, documents). Ancestor of the Genesis-Web folder above. | 2026-04-10 |
-| [Genealogy-Project](https://github.com/00ainick-cmd/Genealogy-Project) (public) | StoryTree. Incomplete Next.js + Postgres + AI narratives. A different product. | 2025-11-16 |
+| [lineage-genealogy](https://github.com/00ainick-cmd/lineage-genealogy) | Private. Vault dump plus an older React/Express Genesis-Web. A snapshot, not the live app. | 2026-06-26 |
+| [ancestry-vault](https://github.com/00ainick-cmd/ancestry-vault) | Private. Git snapshot of the Ancestry folder. | 2026-03-19 |
+| [genesis-web](https://github.com/00ainick-cmd/genesis-web) | Private. Earlier Vite genealogy platform. | 2026-04-10 |
+| [Genealogy-Project](https://github.com/00ainick-cmd/Genealogy-Project) | Public. Unfinished StoryTree. A different product. | 2025-11-16 |
 
 `genesis-os`, `genesis-brain`, and `genesis-explorer` are second-brain / agent repos. They are not Cadiz and not the tree.
 
