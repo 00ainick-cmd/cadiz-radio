@@ -1,0 +1,173 @@
+{
+  "station": "Cadiz Radio",
+  "place": "Harrison County, Ohio",
+  "note": "Local transcript. Not a rewrite. Cadiz is spoken KAY-diz.",
+  "episodes": [
+    {
+      "date": "1844-03-21",
+      "label": "Thursday, March 21, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": true,
+      "href": "1844-03-21/",
+      "duration_seconds": 2387,
+      "story_count": 45,
+      "lede": "J. M'Gonagle, editor and printer. Forty-five stories from the type, plus skippable shop cards."
+    },
+    {
+      "date": "1844-03-28",
+      "label": "Thursday, March 28, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-04-04",
+      "label": "Thursday, April 4, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-04-11",
+      "label": "Thursday, April 11, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-04-18",
+      "label": "Thursday, April 18, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-04-25",
+      "label": "Thursday, April 25, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-05-02",
+      "label": "Thursday, May 2, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-05-08",
+      "label": "Wednesday, May 8, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-05-15",
+      "label": "Wednesday, May 15, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-05-22",
+      "label": "Wednesday, May 22, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-05-29",
+      "label": "Wednesday, May 29, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-06-05",
+      "label": "Wednesday, June 5, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-06-12",
+      "label": "Wednesday, June 12, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-06-19",
+      "label": "Wednesday, June 19, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-06-26",
+      "label": "Wednesday, June 26, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-07-03",
+      "label": "Wednesday, July 3, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-07-10",
+      "label": "Wednesday, July 10, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-07-17",
+      "label": "Wednesday, July 17, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-07-24",
+      "label": "Wednesday, July 24, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-07-31",
+      "label": "Wednesday, July 31, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-08-07",
+      "label": "Wednesday, August 7, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-08-14",
+      "label": "Wednesday, August 14, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-08-21",
+      "label": "Wednesday, August 21, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-08-28",
+      "label": "Wednesday, August 28, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-09-04",
+      "label": "Wednesday, September 4, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-09-11",
+      "label": "Wednesday, September 11, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    },
+    {
+      "date": "1844-09-18",
+      "label": "Wednesday, September 18, 1844",
+      "paper": "The Cadiz Sentinel",
+      "ready": false
+    }
+  ]
+}

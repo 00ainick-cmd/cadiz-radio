@@ -1,16 +1,21 @@
-﻿# Cadiz Radio
+# Cadiz Radio
 
-A Broadcast Desk for the Cadiz Sentinel. Pick a Wednesday. Hear the paper.
+Hear a Wednesday issue of *The Cadiz Sentinel* (Harrison County, Ohio).
 
-This player is adapted from [tldr-radio](https://github.com/mat-nolen/tldr-radio) (MIT). Their desk reads TLDR newsletters with a local voice. This one reads public-domain Cadiz Sentinel transcriptions. No language model rewrites the type.
+Live player: https://00ainick-cmd.github.io/cadiz-radio/
 
-First episode on Pages: **March 21, 1844**. Shop cards are skippable chapters.
+The 1844 text is public domain, transcribed from [Chronicling America](https://chroniclingamerica.loc.gov/). The reader speaks the transcription. Nothing is rewritten.
 
-Open [the player](https://00ainick-cmd.github.io/cadiz-radio/).
+Adapted from [mat-nolen/tldr-radio](https://github.com/mat-nolen/tldr-radio) (MIT). Keep that credit.
 
-Source pages: Library of Congress, Chronicling America (LCCN sn84028793). Town rebuild for Wayside. Not a surname hunt.
+Cadiz is spoken KAY-diz.
 
-## Credit
+## Layout
 
-- [mat-nolen/tldr-radio](https://github.com/mat-nolen/tldr-radio) — desk, chapters, local-first idea
-- Kokoro-82M is their default voice. This first episode used Edge neural voices because Docker was not on the build machine. No paid API key.
+- `index.html` — station page, every Wednesday we have type for
+- `episodes.json` — which dates have audio
+- `1844-MM-DD/` — one episode: `index.html`, `episode.json`, `audio/`
+
+## Voices
+
+March 21 was recorded with Microsoft Edge neural voices (`edge-tts`), Jenny for news and Ryan for shop cards. No paid API key.
