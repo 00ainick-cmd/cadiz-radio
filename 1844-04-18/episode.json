@@ -1,0 +1,683 @@
+{
+  "title": "The Cadiz Sentinel — April 18, 1844",
+  "edition": "cadiz",
+  "issue_date": "1844-04-18",
+  "story_count": 48,
+  "duration_seconds": 2344.536000000001,
+  "source_url": "https://chroniclingamerica.loc.gov/lccn/sn84028793/1844-04-18/ed-1/",
+  "voice": "af_heart",
+  "chapters": [
+    {
+      "idx": 0,
+      "kind": "intro",
+      "section": null,
+      "headline": null,
+      "duration": 11.232,
+      "src": "audio/0.mp3"
+    },
+    {
+      "idx": 1,
+      "kind": "story",
+      "section": "Page 1, Column 1",
+      "headline": "POETICAL",
+      "duration": 33.888,
+      "src": "audio/1.mp3"
+    },
+    {
+      "idx": 2,
+      "kind": "story",
+      "section": "Page 1, Column 1",
+      "headline": "GOOD BYE",
+      "duration": 11.76,
+      "src": "audio/2.mp3"
+    },
+    {
+      "idx": 3,
+      "kind": "story",
+      "section": "Page 1, Column 1",
+      "headline": "DEMOCRACY",
+      "duration": 16.536,
+      "src": "audio/3.mp3"
+    },
+    {
+      "idx": 4,
+      "kind": "story",
+      "section": "Page 1, Column 1",
+      "headline": "The Brother and Sister",
+      "duration": 16.344,
+      "src": "audio/4.mp3"
+    },
+    {
+      "idx": 5,
+      "kind": "story",
+      "section": "Page 1, Column 2",
+      "headline": "RELIGION",
+      "duration": 47.448,
+      "src": "audio/5.mp3"
+    },
+    {
+      "idx": 6,
+      "kind": "story",
+      "section": "Page 1, Column 3",
+      "headline": "A FACT",
+      "duration": 53.736,
+      "src": "audio/6.mp3"
+    },
+    {
+      "idx": 7,
+      "kind": "story",
+      "section": "Page 1, Columns 4-6",
+      "headline": "Page 1, Columns 4-6",
+      "duration": 10.248,
+      "src": "audio/7.mp3"
+    },
+    {
+      "idx": 8,
+      "kind": "story",
+      "section": "Page 1, Columns 4-6",
+      "headline": "A POLITICAL GEM!",
+      "duration": 17.472,
+      "src": "audio/8.mp3"
+    },
+    {
+      "idx": 9,
+      "kind": "story",
+      "section": "Page 1, Columns 4-6",
+      "headline": "FELLOW-DEMOCRATS:",
+      "duration": 63.96,
+      "src": "audio/9.mp3"
+    },
+    {
+      "idx": 10,
+      "kind": "story",
+      "section": "Page 2, Columns 1-3",
+      "headline": "Page 2, Columns 1-3",
+      "duration": 38.064,
+      "src": "audio/10.mp3"
+    },
+    {
+      "idx": 11,
+      "kind": "story",
+      "section": "Page 2, Columns 1-3",
+      "headline": "The Bargain and Sale of 1825",
+      "duration": 20.448,
+      "src": "audio/11.mp3"
+    },
+    {
+      "idx": 12,
+      "kind": "story",
+      "section": "Page 2, Column 4",
+      "headline": "GATHERINGS AND GOSSIPPINGS",
+      "duration": 73.512,
+      "src": "audio/12.mp3"
+    },
+    {
+      "idx": 13,
+      "kind": "story",
+      "section": "Page 2, Column 4",
+      "headline": "Singular Marriage",
+      "duration": 68.088,
+      "src": "audio/13.mp3"
+    },
+    {
+      "idx": 14,
+      "kind": "story",
+      "section": "Page 2, Column 5",
+      "headline": "FOR PRESIDENT,",
+      "duration": 10.704,
+      "src": "audio/14.mp3"
+    },
+    {
+      "idx": 15,
+      "kind": "story",
+      "section": "Page 2, Column 5",
+      "headline": "ELECTORAL TICKET",
+      "duration": 86.688,
+      "src": "audio/15.mp3"
+    },
+    {
+      "idx": 16,
+      "kind": "story",
+      "section": "Page 2, Column 5",
+      "headline": "FOR GOVERNOR OF OHIO,",
+      "duration": 4.8,
+      "src": "audio/16.mp3"
+    },
+    {
+      "idx": 17,
+      "kind": "story",
+      "section": "Page 2, Column 5",
+      "headline": "EDITED BY L. HARPER",
+      "duration": 11.856,
+      "src": "audio/17.mp3"
+    },
+    {
+      "idx": 18,
+      "kind": "story",
+      "section": "Page 2, Column 5",
+      "headline": "DEMOCRATIC TICKET",
+      "duration": 83.808,
+      "src": "audio/18.mp3"
+    },
+    {
+      "idx": 19,
+      "kind": "story",
+      "section": "Page 2, Column 6",
+      "headline": "CONNECTICUT",
+      "duration": 53.736,
+      "src": "audio/19.mp3"
+    },
+    {
+      "idx": 20,
+      "kind": "story",
+      "section": "Page 2, Column 6",
+      "headline": "NEW ORLEANS ELECTION",
+      "duration": 21.888,
+      "src": "audio/20.mp3"
+    },
+    {
+      "idx": 21,
+      "kind": "story",
+      "section": "Page 2, Column 6",
+      "headline": "TEXAS",
+      "duration": 21.096,
+      "src": "audio/21.mp3"
+    },
+    {
+      "idx": 22,
+      "kind": "story",
+      "section": "Page 3, Columns 1-3",
+      "headline": "IS MR. CLAY FOR PROTECTION?",
+      "duration": 54.984,
+      "src": "audio/22.mp3"
+    },
+    {
+      "idx": 23,
+      "kind": "story",
+      "section": "Page 3, Columns 1-3",
+      "headline": "\"THE SPIRIT OF 1840,\" REVIVED!",
+      "duration": 14.112,
+      "src": "audio/23.mp3"
+    },
+    {
+      "idx": 24,
+      "kind": "story",
+      "section": "Page 3, Columns 1-3",
+      "headline": "Individual Liability in Pennsylvania",
+      "duration": 17.184,
+      "src": "audio/24.mp3"
+    },
+    {
+      "idx": 25,
+      "kind": "story",
+      "section": "Page 3, Columns 1-3",
+      "headline": "AN OMINOUS ADMINISTRATION",
+      "duration": 85.512,
+      "src": "audio/25.mp3"
+    },
+    {
+      "idx": 26,
+      "kind": "story",
+      "section": "Page 3, Column 4",
+      "headline": "MARRIED",
+      "duration": 81.312,
+      "src": "audio/26.mp3"
+    },
+    {
+      "idx": 27,
+      "kind": "story",
+      "section": "Page 3, Column 4",
+      "headline": "COMMERCIAL",
+      "duration": 54.504,
+      "src": "audio/27.mp3"
+    },
+    {
+      "idx": 28,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "COLLECTION NOTICE",
+      "duration": 33.096,
+      "src": "audio/28.mp3"
+    },
+    {
+      "idx": 29,
+      "kind": "story",
+      "section": "Page 3, Column 4",
+      "headline": "A. S. CANFIELD",
+      "duration": 26.376,
+      "src": "audio/29.mp3"
+    },
+    {
+      "idx": 30,
+      "kind": "story",
+      "section": "Page 3, Column 4",
+      "headline": "JOHN REA",
+      "duration": 16.608,
+      "src": "audio/30.mp3"
+    },
+    {
+      "idx": 31,
+      "kind": "story",
+      "section": "Page 3, Column 4",
+      "headline": "SNYDER & MALLERNEE",
+      "duration": 11.568,
+      "src": "audio/31.mp3"
+    },
+    {
+      "idx": 32,
+      "kind": "story",
+      "section": "Page 3, Column 4",
+      "headline": "JOHN W. BLAIR,",
+      "duration": 8.544,
+      "src": "audio/32.mp3"
+    },
+    {
+      "idx": 33,
+      "kind": "story",
+      "section": "Page 3, Column 4",
+      "headline": "A. & M. MITCHELTREE,",
+      "duration": 11.016,
+      "src": "audio/33.mp3"
+    },
+    {
+      "idx": 34,
+      "kind": "story",
+      "section": "Page 3, Column 4",
+      "headline": "WESTERN EXCHANGE HOTEL,",
+      "duration": 8.568,
+      "src": "audio/34.mp3"
+    },
+    {
+      "idx": 35,
+      "kind": "story",
+      "section": "Page 3, Column 4",
+      "headline": "A. W. MORRISON,",
+      "duration": 15.432,
+      "src": "audio/35.mp3"
+    },
+    {
+      "idx": 36,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "PAPER FOR THE CAMPAIGN",
+      "duration": 30.696,
+      "src": "audio/36.mp3"
+    },
+    {
+      "idx": 37,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "J. W. BEEBE & Co",
+      "duration": 13.032,
+      "src": "audio/37.mp3"
+    },
+    {
+      "idx": 38,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "STRAY COW",
+      "duration": 19.464,
+      "src": "audio/38.mp3"
+    },
+    {
+      "idx": 39,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "FUND COMMISSIONERS' OFFICE,",
+      "duration": 50.64,
+      "src": "audio/39.mp3"
+    },
+    {
+      "idx": 40,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "A LIST OF LETTERS,",
+      "duration": 172.368,
+      "src": "audio/40.mp3"
+    },
+    {
+      "idx": 41,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "J. W. BEEBE & Co",
+      "duration": 22.8,
+      "src": "audio/41.mp3"
+    },
+    {
+      "idx": 42,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "FRANKLIN COLLEGE",
+      "duration": 21.288,
+      "src": "audio/42.mp3"
+    },
+    {
+      "idx": 43,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "Stewart, Milligan and Bennett",
+      "duration": 23.64,
+      "src": "audio/43.mp3"
+    },
+    {
+      "idx": 44,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "REMOVAL. CRABB and ROBERTS, TAILORS",
+      "duration": 17.16,
+      "src": "audio/44.mp3"
+    },
+    {
+      "idx": 45,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "SADDLE, HARNESS and TRUNK MANUFACTORY",
+      "duration": 15.576,
+      "src": "audio/45.mp3"
+    },
+    {
+      "idx": 46,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "TWELVE CENTS REWARD",
+      "duration": 40.296,
+      "src": "audio/46.mp3"
+    },
+    {
+      "idx": 47,
+      "kind": "story",
+      "section": "Page 3, Columns 5-6",
+      "headline": "WESTERN EXCHANGE,",
+      "duration": 13.8,
+      "src": "audio/47.mp3"
+    },
+    {
+      "idx": 48,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "Milliner and Mantua Making Business",
+      "duration": 33.912,
+      "src": "audio/48.mp3"
+    },
+    {
+      "idx": 49,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "DISSOLUTION",
+      "duration": 22.992,
+      "src": "audio/49.mp3"
+    },
+    {
+      "idx": 50,
+      "kind": "story",
+      "section": "Page 4, Column 1",
+      "headline": "TERRECULTURAL",
+      "duration": 13.944,
+      "src": "audio/50.mp3"
+    },
+    {
+      "idx": 51,
+      "kind": "story",
+      "section": "Page 4, Column 1",
+      "headline": "CULTIVATION OF CORN",
+      "duration": 28.392,
+      "src": "audio/51.mp3"
+    },
+    {
+      "idx": 52,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "Page 4, Column 2",
+      "duration": 11.4,
+      "src": "audio/52.mp3"
+    },
+    {
+      "idx": 53,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "NEW ARRANGEMENT. Stone Cutting",
+      "duration": 29.472,
+      "src": "audio/53.mp3"
+    },
+    {
+      "idx": 54,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "NEW ESTABLISHMENT",
+      "duration": 88.92,
+      "src": "audio/54.mp3"
+    },
+    {
+      "idx": 55,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "NEW FRESH GOODS!",
+      "duration": 21.168,
+      "src": "audio/55.mp3"
+    },
+    {
+      "idx": 56,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "CASH! CASH!",
+      "duration": 12.432,
+      "src": "audio/56.mp3"
+    },
+    {
+      "idx": 57,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "SARSAPARILLA",
+      "duration": 10.512,
+      "src": "audio/57.mp3"
+    },
+    {
+      "idx": 58,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "FARM FOR SALE",
+      "duration": 25.368,
+      "src": "audio/58.mp3"
+    },
+    {
+      "idx": 59,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "STANTON and PEPPARD",
+      "duration": 18.456,
+      "src": "audio/59.mp3"
+    },
+    {
+      "idx": 60,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "S. W. BOSTWICK,",
+      "duration": 12.96,
+      "src": "audio/60.mp3"
+    },
+    {
+      "idx": 61,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "CUMMINS and HARPER,",
+      "duration": 16.2,
+      "src": "audio/61.mp3"
+    },
+    {
+      "idx": 62,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "L. P. MILLIGAN",
+      "duration": 11.664,
+      "src": "audio/62.mp3"
+    },
+    {
+      "idx": 63,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "T. L. JEWETT,",
+      "duration": 9.216,
+      "src": "audio/63.mp3"
+    },
+    {
+      "idx": 64,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "M. H. URQUHART,",
+      "duration": 14.808,
+      "src": "audio/64.mp3"
+    },
+    {
+      "idx": 65,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "JEW DAVID HEBREW PLASTER",
+      "duration": 21.096,
+      "src": "audio/65.mp3"
+    },
+    {
+      "idx": 66,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "A GOOD BARGAIN",
+      "duration": 19.728,
+      "src": "audio/66.mp3"
+    },
+    {
+      "idx": 67,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "OH YES!",
+      "duration": 22.224,
+      "src": "audio/67.mp3"
+    },
+    {
+      "idx": 68,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "NOTICE",
+      "duration": 11.112,
+      "src": "audio/68.mp3"
+    },
+    {
+      "idx": 69,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "DR. DUNCAN'S EXPECTORANT REMEDY",
+      "duration": 17.28,
+      "src": "audio/69.mp3"
+    },
+    {
+      "idx": 70,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "DR. EASTMAN'S CONCENTRATED BALSAM OF WILD CHERRY",
+      "duration": 9.816,
+      "src": "audio/70.mp3"
+    },
+    {
+      "idx": 71,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "SIX CENTS REWARD",
+      "duration": 25.608,
+      "src": "audio/71.mp3"
+    },
+    {
+      "idx": 72,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "FRESH DRUGS AND MEDICINES",
+      "duration": 11.496,
+      "src": "audio/72.mp3"
+    },
+    {
+      "idx": 73,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "WASHINGTONIAN HOUSE",
+      "duration": 15.84,
+      "src": "audio/73.mp3"
+    },
+    {
+      "idx": 74,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "CHEAP GOODS For Cash or APPROVED PRODUCE",
+      "duration": 11.808,
+      "src": "audio/74.mp3"
+    },
+    {
+      "idx": 75,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "No Tin Panning Here",
+      "duration": 14.136,
+      "src": "audio/75.mp3"
+    },
+    {
+      "idx": 76,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "DAY LIGHT AND FAIR PLAY",
+      "duration": 17.568,
+      "src": "audio/76.mp3"
+    },
+    {
+      "idx": 77,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "Ploughs",
+      "duration": 6.768,
+      "src": "audio/77.mp3"
+    },
+    {
+      "idx": 78,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "BUT BE ADVISED",
+      "duration": 14.208,
+      "src": "audio/78.mp3"
+    },
+    {
+      "idx": 79,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "Miss SARAH RITCHEY",
+      "duration": 22.296,
+      "src": "audio/79.mp3"
+    },
+    {
+      "idx": 80,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "LAND FOR SALE",
+      "duration": 21.84,
+      "src": "audio/80.mp3"
+    },
+    {
+      "idx": 81,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "Female Seminary",
+      "duration": 16.176,
+      "src": "audio/81.mp3"
+    },
+    {
+      "idx": 82,
+      "kind": "sponsor",
+      "section": null,
+      "headline": "DICKINSON and CO",
+      "duration": 19.512,
+      "src": "audio/82.mp3"
+    },
+    {
+      "idx": 83,
+      "kind": "outro",
+      "section": null,
+      "headline": null,
+      "duration": 7.32,
+      "src": "audio/83.mp3"
+    }
+  ]
+}

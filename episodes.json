@@ -17,31 +17,51 @@
       "date": "1844-03-28",
       "label": "Thursday, March 28, 1844",
       "paper": "The Cadiz Sentinel",
-      "ready": false
+      "ready": true,
+      "href": "1844-03-28/",
+      "duration_seconds": 2197,
+      "story_count": 43,
+      "lede": "L. Harper, editor and printer. Forty-three stories from the type, plus skippable shop cards."
     },
     {
       "date": "1844-04-04",
       "label": "Thursday, April 4, 1844",
       "paper": "The Cadiz Sentinel",
-      "ready": false
+      "ready": true,
+      "href": "1844-04-04/",
+      "duration_seconds": 2091,
+      "story_count": 35,
+      "lede": "L. Harper, editor and printer. Thirty-five stories from the type, plus skippable shop cards."
     },
     {
       "date": "1844-04-11",
       "label": "Thursday, April 11, 1844",
       "paper": "The Cadiz Sentinel",
-      "ready": false
+      "ready": true,
+      "href": "1844-04-11/",
+      "duration_seconds": 2281,
+      "story_count": 44,
+      "lede": "L. Harper, editor and printer. Forty-four stories from the type, plus skippable shop cards."
     },
     {
       "date": "1844-04-18",
       "label": "Thursday, April 18, 1844",
       "paper": "The Cadiz Sentinel",
-      "ready": false
+      "ready": true,
+      "href": "1844-04-18/",
+      "duration_seconds": 2345,
+      "story_count": 48,
+      "lede": "L. Harper, editor and printer. Forty-eight stories from the type, plus skippable shop cards."
     },
     {
       "date": "1844-04-25",
       "label": "Thursday, April 25, 1844",
       "paper": "The Cadiz Sentinel",
-      "ready": false
+      "ready": true,
+      "href": "1844-04-25/",
+      "duration_seconds": 2562,
+      "story_count": 61,
+      "lede": "L. Harper, editor and printer. Sixty-one stories from the type, plus skippable shop cards."
     },
     {
       "date": "1844-05-02",
